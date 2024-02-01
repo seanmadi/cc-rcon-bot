@@ -11,6 +11,8 @@
   "dependencies": {
     "discord.js": "^11.5.1",
     "json-bigint": "^0.3.0",
+    "rcon": "^1.1.0",
+    "rcon-client": "^4.2.4",
     "webrconjs": "^1.0.0"
   }
 }
